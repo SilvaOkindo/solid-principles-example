@@ -1,0 +1,14 @@
+{
+  "name": "solid-basics",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "@types/node": "^25.1.0",
+    "typescript": "^5.5.3"
+  },
+  "private": true
+}
